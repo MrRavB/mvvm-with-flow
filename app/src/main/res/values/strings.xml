@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MvvmNewsApp</string>
+    <string name="retry">Retry</string>
+    <string name="no_results_found">No results found</string>
+    <string name="search_instructions">Search instructions</string>
+    <string name="no_bookmarks">No bookmarks</string>
+    <string name="breaking">Breaking</string>
+    <string name="search">Search</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="title_breaking_news">Breaking news</string>
+    <string name="title_search_news">Search news</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="could_not_refresh">Could not refresh: %s</string>
+    <string name="unknown_error_occurred">Unknown error occurred</string>
+</resources>
